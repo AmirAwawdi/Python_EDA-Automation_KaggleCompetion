@@ -1,9 +1,9 @@
-# Python_HomeLoanData_EDA-Automation
-Data Analysis Python Project - Home Loan Approval - KaggleCompetition
+# Home Loan Approval
+Kaggle Python Project - Data Analytics.
 
 [Click here to view the source](https://www.kaggle.com/datasets/rishikeshkonapure/home-loan-approval)
 
-## Competition\Project Overview & Instructions 
+## Project Overview & Instructions 
 See in the attached notebook
 
 ## Attached Files
@@ -20,6 +20,6 @@ This notebook contains detaild explanation regarding the following:
 5. Analysis.
 6. Conclusion and Areas for Growth and Future Research.
 
-#### 3. Tableau workbook titled "Final_HomeLoans_EDA_Automation_KaggelProject"
+#### 3. Tableau workbook titled "Final_HomeLoans_EDA_Automation_KaggleProject"
 This workbook had been utilized to create a horizintal bar chart with where the y axis is built by a hierarchy of categorial columns.
 The ouput is the attached image titled "BarChart_HomeLoans_EDA_Automation_KaggelProject.png"
