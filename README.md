@@ -11,7 +11,7 @@ See in the attached notebook
 #### 1. CSV file titled " loan_sanction "
 This file contains a table of the original source data.
 
-#### 2. Google Colab notebook titled "Final_HomeLoans_EDA_Automation_KaggelProject"
+#### 2. Notebook titled "Final_HomeLoans_EDA_Automation_KaggelProject"
 This notebook contains detaild explanation regarding the following:
 1. Project overview.
 2. Concept Overview.
